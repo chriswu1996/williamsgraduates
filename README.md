@@ -1,2 +1,2 @@
 # williamsgraduates
-Shows statistics about the gender distribution of graduated classes of Williams College
+Shows statistics about the graduating class of Williams College
